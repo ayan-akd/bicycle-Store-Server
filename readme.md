@@ -31,28 +31,28 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   ````bash
+   ```bash
    git clone https://github.com/yourusername/bicycle-store-server.git
    cd bicycle-store-server
     ```
 2.Install dependencies:
 
-```bash
- cd bicycle-store-server
- npm install
-```
+   ```bash
+   cd bicycle-store-server
+   npm install
+   ```
 
 3.Create a .env file in the root directory and add your MongoDB connection URI:
 
-```bash
+   ```bash
  MONGODB_URI=your_mongodb_connection_string
-```
+   ```
 
 4.Start the development server:
 
-```
+   ```
 npm run start:dev
-```
+   ```
 
 The server will run at http://localhost:5000 (or another port if you configure it differently).
 
