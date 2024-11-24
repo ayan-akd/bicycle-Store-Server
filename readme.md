@@ -35,8 +35,7 @@ Ensure you have the following installed:
    git clone https://github.com/yourusername/bicycle-store-server.git
    cd bicycle-store-server
     ```
-   2.Install dependencies:
-   ````
+2.Install dependencies:
 
 ```bash
  cd bicycle-store-server
